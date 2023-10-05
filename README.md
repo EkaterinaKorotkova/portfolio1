@@ -82,7 +82,6 @@
 
 Итог №1
 Итог №2
-
 ## Контактная информация
 > - Email: korotkovaen90@gmail.com 
 > - LinkedIn: https://www.linkedin.com/in/username/
