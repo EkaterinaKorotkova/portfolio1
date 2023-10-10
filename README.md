@@ -25,7 +25,7 @@
 > - Сделала выводы относительно хороших и плохих когорт с точки зрения LTV.
 > - Посчитала суммарную прибыль компании по всем клиентам и ее изменение, если увеличить ARPU на 10%.
 
-> Ссылка на [проект 1] (https://github.com/EkaterinaKorotkova/portfolio1/blob/main/project%201/project1.xlsx)
+> Ссылка на [проект 1](https://github.com/EkaterinaKorotkova/portfolio1/blob/main/project%201/project1.xlsx)
 
 ### Проект 2: Калькулятор юнит-экономики онлайн-кинотеатра
 
